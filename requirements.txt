@@ -1,0 +1,7 @@
+pandas
+scikit-learn
+prefect
+joblib
+mlflow==2.15.1
+cloudpickle==2.2.1
+pydantic

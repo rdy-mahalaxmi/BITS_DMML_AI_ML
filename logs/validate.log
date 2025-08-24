@@ -1,0 +1,1342 @@
+2025-08-23 15:13:32,243 [INFO] Validating file: data/lake/csv_source\20250823_150931\churn.csv
+2025-08-23 15:13:32,259 [INFO] Data types:
+customerID           object
+gender               object
+SeniorCitizen         int64
+Partner              object
+Dependents           object
+tenure                int64
+PhoneService         object
+MultipleLines        object
+InternetService      object
+OnlineSecurity       object
+OnlineBackup         object
+DeviceProtection     object
+TechSupport          object
+StreamingTV          object
+StreamingMovies      object
+Contract             object
+PaperlessBilling     object
+PaymentMethod        object
+MonthlyCharges      float64
+TotalCharges         object
+Churn                object
+dtype: object
+2025-08-23 15:14:32,290 [INFO] Validating file: data/lake/csv_source\20250823_150931\churn.csv
+2025-08-23 15:14:32,315 [INFO] Data types:
+customerID           object
+gender               object
+SeniorCitizen         int64
+Partner              object
+Dependents           object
+tenure                int64
+PhoneService         object
+MultipleLines        object
+InternetService      object
+OnlineSecurity       object
+OnlineBackup         object
+DeviceProtection     object
+TechSupport          object
+StreamingTV          object
+StreamingMovies      object
+Contract             object
+PaperlessBilling     object
+PaymentMethod        object
+MonthlyCharges      float64
+TotalCharges         object
+Churn                object
+dtype: object
+2025-08-23 15:14:32,394 [WARNING] Rows with invalid/missing TotalCharges: 11
+2025-08-23 15:14:32,422 [INFO] Data quality report saved at data/reports\data_quality_report_20250823_151432.csv
+2025-08-23 15:18:42,966 [INFO] Validating file: data/lake\csv_source\20250823_150931\churn.csv
+2025-08-23 15:18:42,980 [INFO] Data types:
+customerID           object
+gender               object
+SeniorCitizen         int64
+Partner              object
+Dependents           object
+tenure                int64
+PhoneService         object
+MultipleLines        object
+InternetService      object
+OnlineSecurity       object
+OnlineBackup         object
+DeviceProtection     object
+TechSupport          object
+StreamingTV          object
+StreamingMovies      object
+Contract             object
+PaperlessBilling     object
+PaymentMethod        object
+MonthlyCharges      float64
+TotalCharges         object
+Churn                object
+dtype: object
+2025-08-23 15:18:43,005 [WARNING] Rows with invalid/missing TotalCharges: 11
+2025-08-23 15:18:43,039 [INFO] Data quality report saved at data/reports\churn_data_quality_20250823_151843.csv
+2025-08-23 15:18:43,048 [INFO] Validating file: data/lake\api_source\20250823_150931\users.csv
+2025-08-23 15:18:43,054 [INFO] Data types:
+id           int64
+name        object
+username    object
+email       object
+address     object
+phone       object
+website     object
+company     object
+dtype: object
+2025-08-23 15:18:43,066 [INFO] Data quality report saved at data/reports\users_data_quality_20250823_151843.csv
+2025-08-23 22:00:00,607 [INFO] Validating file: data/lake\csv_source\20250823_215955\churn.csv
+2025-08-23 22:00:00,633 [INFO] Data types:
+customerID           object
+gender               object
+SeniorCitizen         int64
+Partner              object
+Dependents           object
+tenure                int64
+PhoneService         object
+MultipleLines        object
+InternetService      object
+OnlineSecurity       object
+OnlineBackup         object
+DeviceProtection     object
+TechSupport          object
+StreamingTV          object
+StreamingMovies      object
+Contract             object
+PaperlessBilling     object
+PaymentMethod        object
+MonthlyCharges      float64
+TotalCharges         object
+Churn                object
+dtype: object
+2025-08-23 22:00:00,706 [WARNING] Rows with invalid/missing TotalCharges: 11
+2025-08-23 22:00:00,745 [INFO] Data quality report saved at data/reports\churn_data_quality_20250823_220000.csv
+2025-08-23 22:00:00,756 [INFO] Validating file: data/lake\api_source\20250823_215955\users.csv
+2025-08-23 22:00:00,764 [INFO] Data types:
+id           int64
+name        object
+username    object
+email       object
+address     object
+phone       object
+website     object
+company     object
+dtype: object
+2025-08-23 22:00:00,781 [INFO] Data quality report saved at data/reports\users_data_quality_20250823_220000.csv
+2025-08-23 22:02:20,344 [INFO] Validating file: data/lake\csv_source\20250823_220217\churn.csv
+2025-08-23 22:02:20,366 [INFO] Data types:
+customerID           object
+gender               object
+SeniorCitizen         int64
+Partner              object
+Dependents           object
+tenure                int64
+PhoneService         object
+MultipleLines        object
+InternetService      object
+OnlineSecurity       object
+OnlineBackup         object
+DeviceProtection     object
+TechSupport          object
+StreamingTV          object
+StreamingMovies      object
+Contract             object
+PaperlessBilling     object
+PaymentMethod        object
+MonthlyCharges      float64
+TotalCharges         object
+Churn                object
+dtype: object
+2025-08-23 22:02:20,430 [WARNING] Rows with invalid/missing TotalCharges: 11
+2025-08-23 22:02:20,466 [INFO] Data quality report saved at data/reports\churn_data_quality_20250823_220220.csv
+2025-08-23 22:02:20,486 [INFO] Validating file: data/lake\api_source\20250823_220217\users.csv
+2025-08-23 22:02:20,491 [INFO] Data types:
+id           int64
+name        object
+username    object
+email       object
+address     object
+phone       object
+website     object
+company     object
+dtype: object
+2025-08-23 22:02:20,506 [INFO] Data quality report saved at data/reports\users_data_quality_20250823_220220.csv
+2025-08-23 22:39:35,416 [INFO] Validating file: data/lake\csv_source\20250823_223933\churn.csv
+2025-08-23 22:39:35,430 [INFO] Data types:
+customerID           object
+gender               object
+SeniorCitizen         int64
+Partner              object
+Dependents           object
+tenure                int64
+PhoneService         object
+MultipleLines        object
+InternetService      object
+OnlineSecurity       object
+OnlineBackup         object
+DeviceProtection     object
+TechSupport          object
+StreamingTV          object
+StreamingMovies      object
+Contract             object
+PaperlessBilling     object
+PaymentMethod        object
+MonthlyCharges      float64
+TotalCharges         object
+Churn                object
+dtype: object
+2025-08-23 22:39:35,476 [WARNING] Rows with invalid/missing TotalCharges: 11
+2025-08-23 22:39:35,501 [INFO] Data quality report saved at data/reports\churn_data_quality_20250823_223935.csv
+2025-08-23 22:39:35,509 [INFO] Validating file: data/lake\api_source\20250823_223933\users.csv
+2025-08-23 22:39:35,519 [INFO] Data types:
+id           int64
+name        object
+username    object
+email       object
+address     object
+phone       object
+website     object
+company     object
+dtype: object
+2025-08-23 22:39:35,530 [INFO] Data quality report saved at data/reports\users_data_quality_20250823_223935.csv
+2025-08-24 08:32:31,033 [INFO] Validating file: data/lake\csv_source\20250824_083229\churn.csv
+2025-08-24 08:32:31,043 [INFO] Data types:
+customerID           object
+gender               object
+SeniorCitizen         int64
+Partner              object
+Dependents           object
+tenure                int64
+PhoneService         object
+MultipleLines        object
+InternetService      object
+OnlineSecurity       object
+OnlineBackup         object
+DeviceProtection     object
+TechSupport          object
+StreamingTV          object
+StreamingMovies      object
+Contract             object
+PaperlessBilling     object
+PaymentMethod        object
+MonthlyCharges      float64
+TotalCharges         object
+Churn                object
+dtype: object
+2025-08-24 08:32:31,080 [WARNING] Rows with invalid/missing TotalCharges: 11
+2025-08-24 08:32:31,101 [INFO] Data quality report saved at data/reports\churn_data_quality_20250824_083231.csv
+2025-08-24 08:32:31,107 [INFO] Validating file: data/lake\api_source\20250824_083229\users.csv
+2025-08-24 08:32:31,111 [INFO] Data types:
+id           int64
+name        object
+username    object
+email       object
+address     object
+phone       object
+website     object
+company     object
+dtype: object
+2025-08-24 08:32:31,121 [INFO] Data quality report saved at data/reports\users_data_quality_20250824_083231.csv
+2025-08-24 08:41:11,964 [INFO] Validating file: data/lake\csv_source\20250824_084110\churn.csv
+2025-08-24 08:41:11,975 [INFO] Data types:
+customerID           object
+gender               object
+SeniorCitizen         int64
+Partner              object
+Dependents           object
+tenure                int64
+PhoneService         object
+MultipleLines        object
+InternetService      object
+OnlineSecurity       object
+OnlineBackup         object
+DeviceProtection     object
+TechSupport          object
+StreamingTV          object
+StreamingMovies      object
+Contract             object
+PaperlessBilling     object
+PaymentMethod        object
+MonthlyCharges      float64
+TotalCharges         object
+Churn                object
+dtype: object
+2025-08-24 08:41:12,010 [WARNING] Rows with invalid/missing TotalCharges: 11
+2025-08-24 08:41:12,026 [INFO] Data quality report saved at data/reports\churn_data_quality_20250824_084112.csv
+2025-08-24 08:41:12,034 [INFO] Validating file: data/lake\api_source\20250824_084110\users.csv
+2025-08-24 08:41:12,038 [INFO] Data types:
+id           int64
+name        object
+username    object
+email       object
+address     object
+phone       object
+website     object
+company     object
+dtype: object
+2025-08-24 08:41:12,045 [INFO] Data quality report saved at data/reports\users_data_quality_20250824_084112.csv
+2025-08-24 10:38:09,306 [INFO] Validating file: data/lake\csv_source\20250824_103807\churn.csv
+2025-08-24 10:38:09,320 [INFO] Data types:
+customerID           object
+gender               object
+SeniorCitizen         int64
+Partner              object
+Dependents           object
+tenure                int64
+PhoneService         object
+MultipleLines        object
+InternetService      object
+OnlineSecurity       object
+OnlineBackup         object
+DeviceProtection     object
+TechSupport          object
+StreamingTV          object
+StreamingMovies      object
+Contract             object
+PaperlessBilling     object
+PaymentMethod        object
+MonthlyCharges      float64
+TotalCharges         object
+Churn                object
+dtype: object
+2025-08-24 10:38:09,358 [WARNING] Rows with invalid/missing TotalCharges: 11
+2025-08-24 10:38:09,388 [INFO] Data quality report saved at data/reports\churn_data_quality_20250824_103809.csv
+2025-08-24 10:38:09,395 [INFO] Validating file: data/lake\api_source\20250824_103807\users.csv
+2025-08-24 10:38:09,400 [INFO] Data types:
+id           int64
+name        object
+username    object
+email       object
+address     object
+phone       object
+website     object
+company     object
+dtype: object
+2025-08-24 10:38:09,409 [INFO] Data quality report saved at data/reports\users_data_quality_20250824_103809.csv
+2025-08-24 11:05:39,686 [INFO] Validating file: data/lake\csv_source\20250824_110538\churn.csv
+2025-08-24 11:05:39,703 [INFO] Data types:
+customerID           object
+gender               object
+SeniorCitizen         int64
+Partner              object
+Dependents           object
+tenure                int64
+PhoneService         object
+MultipleLines        object
+InternetService      object
+OnlineSecurity       object
+OnlineBackup         object
+DeviceProtection     object
+TechSupport          object
+StreamingTV          object
+StreamingMovies      object
+Contract             object
+PaperlessBilling     object
+PaymentMethod        object
+MonthlyCharges      float64
+TotalCharges         object
+Churn                object
+dtype: object
+2025-08-24 11:05:39,739 [WARNING] Rows with invalid/missing TotalCharges: 11
+2025-08-24 11:05:39,766 [INFO] Data quality report saved at data/reports\churn_data_quality_20250824_110539.csv
+2025-08-24 11:05:39,772 [INFO] Validating file: data/lake\api_source\20250824_110538\users.csv
+2025-08-24 11:05:39,779 [INFO] Data types:
+id           int64
+name        object
+username    object
+email       object
+address     object
+phone       object
+website     object
+company     object
+dtype: object
+2025-08-24 11:05:39,783 [INFO] Data quality report saved at data/reports\users_data_quality_20250824_110539.csv
+2025-08-24 11:09:43,898 [INFO] Validating file: data/lake\csv_source\20250824_110942\churn.csv
+2025-08-24 11:09:43,912 [INFO] Data types:
+customerID           object
+gender               object
+SeniorCitizen         int64
+Partner              object
+Dependents           object
+tenure                int64
+PhoneService         object
+MultipleLines        object
+InternetService      object
+OnlineSecurity       object
+OnlineBackup         object
+DeviceProtection     object
+TechSupport          object
+StreamingTV          object
+StreamingMovies      object
+Contract             object
+PaperlessBilling     object
+PaymentMethod        object
+MonthlyCharges      float64
+TotalCharges         object
+Churn                object
+dtype: object
+2025-08-24 11:09:43,936 [WARNING] Rows with invalid/missing TotalCharges: 11
+2025-08-24 11:09:43,960 [INFO] Data quality report saved at data/reports\churn_data_quality_20250824_110943.csv
+2025-08-24 11:09:43,970 [INFO] Validating file: data/lake\api_source\20250824_110942\users.csv
+2025-08-24 11:09:43,983 [INFO] Data types:
+id           int64
+name        object
+username    object
+email       object
+address     object
+phone       object
+website     object
+company     object
+dtype: object
+2025-08-24 11:09:43,994 [INFO] Data quality report saved at data/reports\users_data_quality_20250824_110943.csv
+2025-08-24 12:25:30,240 [INFO] Validating file: data/lake\csv_source\20250824_122528\churn.csv
+2025-08-24 12:25:30,269 [INFO] Data types:
+customerID           object
+gender               object
+SeniorCitizen         int64
+Partner              object
+Dependents           object
+tenure                int64
+PhoneService         object
+MultipleLines        object
+InternetService      object
+OnlineSecurity       object
+OnlineBackup         object
+DeviceProtection     object
+TechSupport          object
+StreamingTV          object
+StreamingMovies      object
+Contract             object
+PaperlessBilling     object
+PaymentMethod        object
+MonthlyCharges      float64
+TotalCharges         object
+Churn                object
+dtype: object
+2025-08-24 12:25:30,358 [WARNING] Rows with invalid/missing TotalCharges: 11
+2025-08-24 12:25:30,386 [INFO] Data quality report saved at data/reports\churn_data_quality_20250824_122530.csv
+2025-08-24 12:25:30,394 [INFO] Validating file: data/lake\api_source\20250824_122528\users.csv
+2025-08-24 12:25:30,403 [INFO] Data types:
+id           int64
+name        object
+username    object
+email       object
+address     object
+phone       object
+website     object
+company     object
+dtype: object
+2025-08-24 12:25:30,420 [INFO] Data quality report saved at data/reports\users_data_quality_20250824_122530.csv
+2025-08-24 12:37:42,749 [INFO] Validating file: data/lake\csv_source\20250824_123738\churn.csv
+2025-08-24 12:37:42,763 [INFO] Data types:
+customerID           object
+gender               object
+SeniorCitizen         int64
+Partner              object
+Dependents           object
+tenure                int64
+PhoneService         object
+MultipleLines        object
+InternetService      object
+OnlineSecurity       object
+OnlineBackup         object
+DeviceProtection     object
+TechSupport          object
+StreamingTV          object
+StreamingMovies      object
+Contract             object
+PaperlessBilling     object
+PaymentMethod        object
+MonthlyCharges      float64
+TotalCharges         object
+Churn                object
+dtype: object
+2025-08-24 12:37:42,811 [WARNING] Rows with invalid/missing TotalCharges: 11
+2025-08-24 12:37:42,833 [INFO] Data quality report saved at data/reports\churn_data_quality_20250824_123742.csv
+2025-08-24 12:37:42,842 [INFO] Validating file: data/lake\api_source\20250824_123738\users.csv
+2025-08-24 12:37:42,848 [INFO] Data types:
+id           int64
+name        object
+username    object
+email       object
+address     object
+phone       object
+website     object
+company     object
+dtype: object
+2025-08-24 12:37:42,855 [INFO] Data quality report saved at data/reports\users_data_quality_20250824_123742.csv
+2025-08-24 14:25:58,698 [INFO] Validating file: data/lake\csv_source\20250824_142557\churn.csv
+2025-08-24 14:25:58,713 [INFO] Data types:
+customerID           object
+gender               object
+SeniorCitizen         int64
+Partner              object
+Dependents           object
+tenure                int64
+PhoneService         object
+MultipleLines        object
+InternetService      object
+OnlineSecurity       object
+OnlineBackup         object
+DeviceProtection     object
+TechSupport          object
+StreamingTV          object
+StreamingMovies      object
+Contract             object
+PaperlessBilling     object
+PaymentMethod        object
+MonthlyCharges      float64
+TotalCharges         object
+Churn                object
+dtype: object
+2025-08-24 14:25:58,768 [WARNING] Rows with invalid/missing TotalCharges: 11
+2025-08-24 14:25:58,789 [INFO] Data quality report saved at data/reports\churn_data_quality_20250824_142558.csv
+2025-08-24 14:25:58,796 [INFO] Validating file: data/lake\api_source\20250824_142557\users.csv
+2025-08-24 14:25:58,801 [INFO] Data types:
+id           int64
+name        object
+username    object
+email       object
+address     object
+phone       object
+website     object
+company     object
+dtype: object
+2025-08-24 14:25:58,809 [INFO] Data quality report saved at data/reports\users_data_quality_20250824_142558.csv
+2025-08-24 14:32:57,164 [INFO] Validating file: data/lake\csv_source\20250824_143255\churn.csv
+2025-08-24 14:32:57,179 [INFO] Data types:
+customerID           object
+gender               object
+SeniorCitizen         int64
+Partner              object
+Dependents           object
+tenure                int64
+PhoneService         object
+MultipleLines        object
+InternetService      object
+OnlineSecurity       object
+OnlineBackup         object
+DeviceProtection     object
+TechSupport          object
+StreamingTV          object
+StreamingMovies      object
+Contract             object
+PaperlessBilling     object
+PaymentMethod        object
+MonthlyCharges      float64
+TotalCharges         object
+Churn                object
+dtype: object
+2025-08-24 14:32:57,220 [WARNING] Rows with invalid/missing TotalCharges: 11
+2025-08-24 14:32:57,243 [INFO] Data quality report saved at data/reports\churn_data_quality_20250824_143257.csv
+2025-08-24 14:32:57,249 [INFO] Validating file: data/lake\api_source\20250824_143255\users.csv
+2025-08-24 14:32:57,253 [INFO] Data types:
+id           int64
+name        object
+username    object
+email       object
+address     object
+phone       object
+website     object
+company     object
+dtype: object
+2025-08-24 14:32:57,261 [INFO] Data quality report saved at data/reports\users_data_quality_20250824_143257.csv
+2025-08-24 14:36:20,072 [INFO] Validating file: data/lake\csv_source\20250824_143618\churn.csv
+2025-08-24 14:36:20,084 [INFO] Data types:
+customerID           object
+gender               object
+SeniorCitizen         int64
+Partner              object
+Dependents           object
+tenure                int64
+PhoneService         object
+MultipleLines        object
+InternetService      object
+OnlineSecurity       object
+OnlineBackup         object
+DeviceProtection     object
+TechSupport          object
+StreamingTV          object
+StreamingMovies      object
+Contract             object
+PaperlessBilling     object
+PaymentMethod        object
+MonthlyCharges      float64
+TotalCharges         object
+Churn                object
+dtype: object
+2025-08-24 14:36:20,123 [WARNING] Rows with invalid/missing TotalCharges: 11
+2025-08-24 14:36:20,145 [INFO] Data quality report saved at data/reports\churn_data_quality_20250824_143620.csv
+2025-08-24 14:36:20,149 [INFO] Validating file: data/lake\api_source\20250824_143618\users.csv
+2025-08-24 14:36:20,155 [INFO] Data types:
+id           int64
+name        object
+username    object
+email       object
+address     object
+phone       object
+website     object
+company     object
+dtype: object
+2025-08-24 14:36:20,162 [INFO] Data quality report saved at data/reports\users_data_quality_20250824_143620.csv
+2025-08-24 14:43:56,366 [INFO] Validating file: data/lake\csv_source\20250824_144354\churn.csv
+2025-08-24 14:43:56,383 [INFO] Data types:
+customerID           object
+gender               object
+SeniorCitizen         int64
+Partner              object
+Dependents           object
+tenure                int64
+PhoneService         object
+MultipleLines        object
+InternetService      object
+OnlineSecurity       object
+OnlineBackup         object
+DeviceProtection     object
+TechSupport          object
+StreamingTV          object
+StreamingMovies      object
+Contract             object
+PaperlessBilling     object
+PaymentMethod        object
+MonthlyCharges      float64
+TotalCharges         object
+Churn                object
+dtype: object
+2025-08-24 14:43:56,441 [WARNING] Rows with invalid/missing TotalCharges: 11
+2025-08-24 14:43:56,477 [INFO] Data quality report saved at data/reports\churn_data_quality_20250824_144356.csv
+2025-08-24 14:43:56,489 [INFO] Validating file: data/lake\api_source\20250824_144354\users.csv
+2025-08-24 14:43:56,499 [INFO] Data types:
+id           int64
+name        object
+username    object
+email       object
+address     object
+phone       object
+website     object
+company     object
+dtype: object
+2025-08-24 14:43:56,516 [INFO] Data quality report saved at data/reports\users_data_quality_20250824_144356.csv
+2025-08-24 18:39:52,427 [INFO] Validating file: data/lake\csv_source\20250824_183950\churn.csv
+2025-08-24 18:39:52,443 [INFO] Data types:
+customerID           object
+gender               object
+SeniorCitizen         int64
+Partner              object
+Dependents           object
+tenure                int64
+PhoneService         object
+MultipleLines        object
+InternetService      object
+OnlineSecurity       object
+OnlineBackup         object
+DeviceProtection     object
+TechSupport          object
+StreamingTV          object
+StreamingMovies      object
+Contract             object
+PaperlessBilling     object
+PaymentMethod        object
+MonthlyCharges      float64
+TotalCharges         object
+Churn                object
+dtype: object
+2025-08-24 18:39:52,500 [WARNING] Rows with invalid/missing TotalCharges: 11
+2025-08-24 18:39:52,533 [INFO] Data quality report saved at data/reports\churn_data_quality_20250824_183952.csv
+2025-08-24 18:39:52,544 [INFO] Validating file: data/lake\api_source\20250824_183950\users.csv
+2025-08-24 18:39:52,553 [INFO] Data types:
+id           int64
+name        object
+username    object
+email       object
+address     object
+phone       object
+website     object
+company     object
+dtype: object
+2025-08-24 18:39:52,576 [INFO] Data quality report saved at data/reports\users_data_quality_20250824_183952.csv
+2025-08-24 20:33:03,865 [INFO] Validating file: data/lake\csv_source\20250824_203302\churn.csv
+2025-08-24 20:33:03,886 [INFO] Data types:
+customerID           object
+gender               object
+SeniorCitizen         int64
+Partner              object
+Dependents           object
+tenure                int64
+PhoneService         object
+MultipleLines        object
+InternetService      object
+OnlineSecurity       object
+OnlineBackup         object
+DeviceProtection     object
+TechSupport          object
+StreamingTV          object
+StreamingMovies      object
+Contract             object
+PaperlessBilling     object
+PaymentMethod        object
+MonthlyCharges      float64
+TotalCharges         object
+Churn                object
+dtype: object
+2025-08-24 20:33:03,950 [WARNING] Rows with invalid/missing TotalCharges: 11
+2025-08-24 20:33:03,981 [INFO] Data quality report saved at data/reports\churn_data_quality_20250824_203303.csv
+2025-08-24 20:33:03,990 [INFO] Validating file: data/lake\api_source\20250824_203302\users.csv
+2025-08-24 20:33:04,000 [INFO] Data types:
+id           int64
+name        object
+username    object
+email       object
+address     object
+phone       object
+website     object
+company     object
+dtype: object
+2025-08-24 20:33:04,014 [INFO] Data quality report saved at data/reports\users_data_quality_20250824_203304.csv
+2025-08-24 20:40:37,071 [INFO] Validating file: data/lake\csv_source\20250824_204034\churn.csv
+2025-08-24 20:40:37,085 [INFO] Data types:
+customerID           object
+gender               object
+SeniorCitizen         int64
+Partner              object
+Dependents           object
+tenure                int64
+PhoneService         object
+MultipleLines        object
+InternetService      object
+OnlineSecurity       object
+OnlineBackup         object
+DeviceProtection     object
+TechSupport          object
+StreamingTV          object
+StreamingMovies      object
+Contract             object
+PaperlessBilling     object
+PaymentMethod        object
+MonthlyCharges      float64
+TotalCharges         object
+Churn                object
+dtype: object
+2025-08-24 20:40:37,134 [WARNING] Rows with invalid/missing TotalCharges: 11
+2025-08-24 20:40:37,158 [INFO] Data quality report saved at data/reports\churn_data_quality_20250824_204037.csv
+2025-08-24 20:40:37,166 [INFO] Validating file: data/lake\api_source\20250824_204035\users.csv
+2025-08-24 20:40:37,167 [INFO] Data types:
+id           int64
+name        object
+username    object
+email       object
+address     object
+phone       object
+website     object
+company     object
+dtype: object
+2025-08-24 20:40:37,180 [INFO] Data quality report saved at data/reports\users_data_quality_20250824_204037.csv
+2025-08-24 20:44:07,729 [INFO] Validating file: data/lake\csv_source\20250824_204406\churn.csv
+2025-08-24 20:44:07,740 [INFO] Data types:
+customerID           object
+gender               object
+SeniorCitizen         int64
+Partner              object
+Dependents           object
+tenure                int64
+PhoneService         object
+MultipleLines        object
+InternetService      object
+OnlineSecurity       object
+OnlineBackup         object
+DeviceProtection     object
+TechSupport          object
+StreamingTV          object
+StreamingMovies      object
+Contract             object
+PaperlessBilling     object
+PaymentMethod        object
+MonthlyCharges      float64
+TotalCharges         object
+Churn                object
+dtype: object
+2025-08-24 20:44:07,819 [WARNING] Rows with invalid/missing TotalCharges: 11
+2025-08-24 20:44:07,843 [INFO] Data quality report saved at data/reports\churn_data_quality_20250824_204407.csv
+2025-08-24 20:44:07,849 [INFO] Validating file: data/lake\api_source\20250824_204406\users.csv
+2025-08-24 20:44:07,856 [INFO] Data types:
+id           int64
+name        object
+username    object
+email       object
+address     object
+phone       object
+website     object
+company     object
+dtype: object
+2025-08-24 20:44:07,879 [INFO] Data quality report saved at data/reports\users_data_quality_20250824_204407.csv
+2025-08-24 21:15:37,132 [INFO] Validating file: data/lake\csv_source\20250824_210552\churn.csv
+2025-08-24 21:15:37,146 [INFO] Data types:
+customerID           object
+gender               object
+SeniorCitizen         int64
+Partner              object
+Dependents           object
+tenure                int64
+PhoneService         object
+MultipleLines        object
+InternetService      object
+OnlineSecurity       object
+OnlineBackup         object
+DeviceProtection     object
+TechSupport          object
+StreamingTV          object
+StreamingMovies      object
+Contract             object
+PaperlessBilling     object
+PaymentMethod        object
+MonthlyCharges      float64
+TotalCharges         object
+Churn                object
+dtype: object
+2025-08-24 21:15:37,181 [WARNING] Rows with invalid/missing TotalCharges: 11
+2025-08-24 21:15:37,198 [INFO] Data quality report saved at data/reports\churn_data_quality_20250824_211537.csv
+2025-08-24 21:15:37,217 [INFO] Validating file: data/lake\api_source\20250824_205630\users.csv
+2025-08-24 21:15:37,221 [INFO] Data types:
+id           int64
+name        object
+username    object
+email       object
+address     object
+phone       object
+website     object
+company     object
+dtype: object
+2025-08-24 21:15:37,234 [INFO] Data quality report saved at data/reports\users_data_quality_20250824_211537.csv
+2025-08-24 21:20:32,091 [INFO] Validating file: data/lake\csv_source\20250824_210552\churn.csv
+2025-08-24 21:20:32,102 [INFO] Data types:
+customerID           object
+gender               object
+SeniorCitizen         int64
+Partner              object
+Dependents           object
+tenure                int64
+PhoneService         object
+MultipleLines        object
+InternetService      object
+OnlineSecurity       object
+OnlineBackup         object
+DeviceProtection     object
+TechSupport          object
+StreamingTV          object
+StreamingMovies      object
+Contract             object
+PaperlessBilling     object
+PaymentMethod        object
+MonthlyCharges      float64
+TotalCharges         object
+Churn                object
+dtype: object
+2025-08-24 21:20:32,147 [WARNING] Rows with invalid/missing TotalCharges: 11
+2025-08-24 21:20:32,171 [INFO] Data quality report saved at data/reports\churn_data_quality_20250824_212032.csv
+2025-08-24 21:20:32,178 [INFO] Validating file: data/lake\api_source\20250824_205630\users.csv
+2025-08-24 21:20:32,183 [INFO] Data types:
+id           int64
+name        object
+username    object
+email       object
+address     object
+phone       object
+website     object
+company     object
+dtype: object
+2025-08-24 21:20:32,194 [INFO] Data quality report saved at data/reports\users_data_quality_20250824_212032.csv
+2025-08-24 21:25:48,729 [INFO] Validating file: data/lake\csv_source\20250824_210552\churn.csv
+2025-08-24 21:25:48,739 [INFO] Data types:
+customerID           object
+gender               object
+SeniorCitizen         int64
+Partner              object
+Dependents           object
+tenure                int64
+PhoneService         object
+MultipleLines        object
+InternetService      object
+OnlineSecurity       object
+OnlineBackup         object
+DeviceProtection     object
+TechSupport          object
+StreamingTV          object
+StreamingMovies      object
+Contract             object
+PaperlessBilling     object
+PaymentMethod        object
+MonthlyCharges      float64
+TotalCharges         object
+Churn                object
+dtype: object
+2025-08-24 21:25:48,768 [WARNING] Rows with invalid/missing TotalCharges: 11
+2025-08-24 21:25:48,786 [INFO] Data quality report saved at data/reports\churn_data_quality_20250824_212548.csv
+2025-08-24 21:25:48,797 [INFO] Validating file: data/lake\api_source\20250824_205630\users.csv
+2025-08-24 21:25:48,799 [INFO] Data types:
+id           int64
+name        object
+username    object
+email       object
+address     object
+phone       object
+website     object
+company     object
+dtype: object
+2025-08-24 21:25:48,801 [INFO] Data quality report saved at data/reports\users_data_quality_20250824_212548.csv
+2025-08-24 21:30:46,063 [INFO] Validating file: data/lake\csv_source\20250824_210552\churn.csv
+2025-08-24 21:30:46,075 [INFO] Data types:
+customerID           object
+gender               object
+SeniorCitizen         int64
+Partner              object
+Dependents           object
+tenure                int64
+PhoneService         object
+MultipleLines        object
+InternetService      object
+OnlineSecurity       object
+OnlineBackup         object
+DeviceProtection     object
+TechSupport          object
+StreamingTV          object
+StreamingMovies      object
+Contract             object
+PaperlessBilling     object
+PaymentMethod        object
+MonthlyCharges      float64
+TotalCharges         object
+Churn                object
+dtype: object
+2025-08-24 21:30:46,116 [WARNING] Rows with invalid/missing TotalCharges: 11
+2025-08-24 21:30:46,134 [INFO] Data quality report saved at data/reports\churn_data_quality_20250824_213046.csv
+2025-08-24 21:30:46,170 [INFO] Validating file: data/lake\api_source\20250824_205630\users.csv
+2025-08-24 21:30:46,174 [INFO] Data types:
+id           int64
+name        object
+username    object
+email       object
+address     object
+phone       object
+website     object
+company     object
+dtype: object
+2025-08-24 21:30:46,184 [INFO] Data quality report saved at data/reports\users_data_quality_20250824_213046.csv
+2025-08-24 21:35:43,455 [INFO] Validating file: data/lake\csv_source\20250824_210552\churn.csv
+2025-08-24 21:35:43,463 [INFO] Data types:
+customerID           object
+gender               object
+SeniorCitizen         int64
+Partner              object
+Dependents           object
+tenure                int64
+PhoneService         object
+MultipleLines        object
+InternetService      object
+OnlineSecurity       object
+OnlineBackup         object
+DeviceProtection     object
+TechSupport          object
+StreamingTV          object
+StreamingMovies      object
+Contract             object
+PaperlessBilling     object
+PaymentMethod        object
+MonthlyCharges      float64
+TotalCharges         object
+Churn                object
+dtype: object
+2025-08-24 21:35:43,501 [WARNING] Rows with invalid/missing TotalCharges: 11
+2025-08-24 21:35:43,517 [INFO] Data quality report saved at data/reports\churn_data_quality_20250824_213543.csv
+2025-08-24 21:35:43,517 [INFO] Validating file: data/lake\api_source\20250824_205630\users.csv
+2025-08-24 21:35:43,517 [INFO] Data types:
+id           int64
+name        object
+username    object
+email       object
+address     object
+phone       object
+website     object
+company     object
+dtype: object
+2025-08-24 21:35:43,533 [INFO] Data quality report saved at data/reports\users_data_quality_20250824_213543.csv
+2025-08-24 21:43:37,473 [INFO] Validating file: data/lake\csv_source\20250824_210552\churn.csv
+2025-08-24 21:43:37,482 [INFO] Data types:
+customerID           object
+gender               object
+SeniorCitizen         int64
+Partner              object
+Dependents           object
+tenure                int64
+PhoneService         object
+MultipleLines        object
+InternetService      object
+OnlineSecurity       object
+OnlineBackup         object
+DeviceProtection     object
+TechSupport          object
+StreamingTV          object
+StreamingMovies      object
+Contract             object
+PaperlessBilling     object
+PaymentMethod        object
+MonthlyCharges      float64
+TotalCharges         object
+Churn                object
+dtype: object
+2025-08-24 21:43:37,518 [WARNING] Rows with invalid/missing TotalCharges: 11
+2025-08-24 21:43:37,528 [INFO] Data quality report saved at data/reports\churn_data_quality_20250824_214337.csv
+2025-08-24 21:43:37,542 [INFO] Validating file: data/lake\api_source\20250824_205630\users.csv
+2025-08-24 21:43:37,544 [INFO] Data types:
+id           int64
+name        object
+username    object
+email       object
+address     object
+phone       object
+website     object
+company     object
+dtype: object
+2025-08-24 21:43:37,548 [INFO] Data quality report saved at data/reports\users_data_quality_20250824_214337.csv
+2025-08-24 21:56:51,974 [INFO] Validating file: data/lake\csv_source\20250824_210552\churn.csv
+2025-08-24 21:56:51,993 [INFO] Data types:
+customerID           object
+gender               object
+SeniorCitizen         int64
+Partner              object
+Dependents           object
+tenure                int64
+PhoneService         object
+MultipleLines        object
+InternetService      object
+OnlineSecurity       object
+OnlineBackup         object
+DeviceProtection     object
+TechSupport          object
+StreamingTV          object
+StreamingMovies      object
+Contract             object
+PaperlessBilling     object
+PaymentMethod        object
+MonthlyCharges      float64
+TotalCharges         object
+Churn                object
+dtype: object
+2025-08-24 21:56:52,034 [WARNING] Rows with invalid/missing TotalCharges: 11
+2025-08-24 21:56:52,053 [INFO] Data quality report saved at data/reports\churn_data_quality_20250824_215652.csv
+2025-08-24 21:56:52,060 [INFO] Validating file: data/lake\api_source\20250824_205630\users.csv
+2025-08-24 21:56:52,063 [INFO] Data types:
+id           int64
+name        object
+username    object
+email       object
+address     object
+phone       object
+website     object
+company     object
+dtype: object
+2025-08-24 21:56:52,071 [INFO] Data quality report saved at data/reports\users_data_quality_20250824_215652.csv
+2025-08-24 22:00:29,640 [INFO] Validating file: data/lake\csv_source\20250824_210552\churn.csv
+2025-08-24 22:00:29,651 [INFO] Data types:
+customerID           object
+gender               object
+SeniorCitizen         int64
+Partner              object
+Dependents           object
+tenure                int64
+PhoneService         object
+MultipleLines        object
+InternetService      object
+OnlineSecurity       object
+OnlineBackup         object
+DeviceProtection     object
+TechSupport          object
+StreamingTV          object
+StreamingMovies      object
+Contract             object
+PaperlessBilling     object
+PaymentMethod        object
+MonthlyCharges      float64
+TotalCharges         object
+Churn                object
+dtype: object
+2025-08-24 22:00:29,672 [WARNING] Rows with invalid/missing TotalCharges: 11
+2025-08-24 22:00:29,693 [INFO] Data quality report saved at data/reports\churn_data_quality_20250824_220029.csv
+2025-08-24 22:00:29,699 [INFO] Validating file: data/lake\api_source\20250824_205630\users.csv
+2025-08-24 22:00:29,703 [INFO] Data types:
+id           int64
+name        object
+username    object
+email       object
+address     object
+phone       object
+website     object
+company     object
+dtype: object
+2025-08-24 22:00:29,706 [INFO] Data quality report saved at data/reports\users_data_quality_20250824_220029.csv
+2025-08-24 22:05:29,616 [INFO] Validating file: data/lake\csv_source\20250824_210552\churn.csv
+2025-08-24 22:05:29,631 [INFO] Data types:
+customerID           object
+gender               object
+SeniorCitizen         int64
+Partner              object
+Dependents           object
+tenure                int64
+PhoneService         object
+MultipleLines        object
+InternetService      object
+OnlineSecurity       object
+OnlineBackup         object
+DeviceProtection     object
+TechSupport          object
+StreamingTV          object
+StreamingMovies      object
+Contract             object
+PaperlessBilling     object
+PaymentMethod        object
+MonthlyCharges      float64
+TotalCharges         object
+Churn                object
+dtype: object
+2025-08-24 22:05:29,669 [WARNING] Rows with invalid/missing TotalCharges: 11
+2025-08-24 22:05:29,684 [INFO] Data quality report saved at data/reports\churn_data_quality_20250824_220529.csv
+2025-08-24 22:05:29,691 [INFO] Validating file: data/lake\api_source\20250824_205630\users.csv
+2025-08-24 22:05:29,693 [INFO] Data types:
+id           int64
+name        object
+username    object
+email       object
+address     object
+phone       object
+website     object
+company     object
+dtype: object
+2025-08-24 22:05:29,700 [INFO] Data quality report saved at data/reports\users_data_quality_20250824_220529.csv
+2025-08-24 22:10:36,865 [INFO] Validating file: data/lake\csv_source\20250824_210552\churn.csv
+2025-08-24 22:10:36,876 [INFO] Data types:
+customerID           object
+gender               object
+SeniorCitizen         int64
+Partner              object
+Dependents           object
+tenure                int64
+PhoneService         object
+MultipleLines        object
+InternetService      object
+OnlineSecurity       object
+OnlineBackup         object
+DeviceProtection     object
+TechSupport          object
+StreamingTV          object
+StreamingMovies      object
+Contract             object
+PaperlessBilling     object
+PaymentMethod        object
+MonthlyCharges      float64
+TotalCharges         object
+Churn                object
+dtype: object
+2025-08-24 22:10:36,912 [WARNING] Rows with invalid/missing TotalCharges: 11
+2025-08-24 22:10:36,927 [INFO] Data quality report saved at data/reports\churn_data_quality_20250824_221036.csv
+2025-08-24 22:10:36,935 [INFO] Validating file: data/lake\api_source\20250824_205630\users.csv
+2025-08-24 22:10:36,936 [INFO] Data types:
+id           int64
+name        object
+username    object
+email       object
+address     object
+phone       object
+website     object
+company     object
+dtype: object
+2025-08-24 22:10:36,945 [INFO] Data quality report saved at data/reports\users_data_quality_20250824_221036.csv
+2025-08-24 22:16:26,257 [INFO] Validating file: data/lake\csv_source\20250824_210552\churn.csv
+2025-08-24 22:16:26,269 [INFO] Data types:
+customerID           object
+gender               object
+SeniorCitizen         int64
+Partner              object
+Dependents           object
+tenure                int64
+PhoneService         object
+MultipleLines        object
+InternetService      object
+OnlineSecurity       object
+OnlineBackup         object
+DeviceProtection     object
+TechSupport          object
+StreamingTV          object
+StreamingMovies      object
+Contract             object
+PaperlessBilling     object
+PaymentMethod        object
+MonthlyCharges      float64
+TotalCharges         object
+Churn                object
+dtype: object
+2025-08-24 22:16:26,319 [WARNING] Rows with invalid/missing TotalCharges: 11
+2025-08-24 22:16:26,354 [INFO] Data quality report saved at data/reports\churn_data_quality_20250824_221626.csv
+2025-08-24 22:16:26,371 [INFO] Validating file: data/lake\api_source\20250824_205630\users.csv
+2025-08-24 22:16:26,378 [INFO] Data types:
+id           int64
+name        object
+username    object
+email       object
+address     object
+phone       object
+website     object
+company     object
+dtype: object
+2025-08-24 22:16:26,395 [INFO] Data quality report saved at data/reports\users_data_quality_20250824_221626.csv
+2025-08-24 22:20:37,345 [INFO] Validating file: data/lake\csv_source\20250824_210552\churn.csv
+2025-08-24 22:20:37,363 [INFO] Data types:
+customerID           object
+gender               object
+SeniorCitizen         int64
+Partner              object
+Dependents           object
+tenure                int64
+PhoneService         object
+MultipleLines        object
+InternetService      object
+OnlineSecurity       object
+OnlineBackup         object
+DeviceProtection     object
+TechSupport          object
+StreamingTV          object
+StreamingMovies      object
+Contract             object
+PaperlessBilling     object
+PaymentMethod        object
+MonthlyCharges      float64
+TotalCharges         object
+Churn                object
+dtype: object
+2025-08-24 22:20:37,413 [WARNING] Rows with invalid/missing TotalCharges: 11
+2025-08-24 22:20:37,434 [INFO] Data quality report saved at data/reports\churn_data_quality_20250824_222037.csv
+2025-08-24 22:20:37,444 [INFO] Validating file: data/lake\api_source\20250824_205630\users.csv
+2025-08-24 22:20:37,448 [INFO] Data types:
+id           int64
+name        object
+username    object
+email       object
+address     object
+phone       object
+website     object
+company     object
+dtype: object
+2025-08-24 22:20:37,459 [INFO] Data quality report saved at data/reports\users_data_quality_20250824_222037.csv
+2025-08-24 22:25:26,950 [INFO] Validating file: data/lake\csv_source\20250824_210552\churn.csv
+2025-08-24 22:25:26,959 [INFO] Data types:
+customerID           object
+gender               object
+SeniorCitizen         int64
+Partner              object
+Dependents           object
+tenure                int64
+PhoneService         object
+MultipleLines        object
+InternetService      object
+OnlineSecurity       object
+OnlineBackup         object
+DeviceProtection     object
+TechSupport          object
+StreamingTV          object
+StreamingMovies      object
+Contract             object
+PaperlessBilling     object
+PaymentMethod        object
+MonthlyCharges      float64
+TotalCharges         object
+Churn                object
+dtype: object
+2025-08-24 22:25:26,996 [WARNING] Rows with invalid/missing TotalCharges: 11
+2025-08-24 22:25:27,011 [INFO] Data quality report saved at data/reports\churn_data_quality_20250824_222526.csv
+2025-08-24 22:25:27,016 [INFO] Validating file: data/lake\api_source\20250824_205630\users.csv
+2025-08-24 22:25:27,018 [INFO] Data types:
+id           int64
+name        object
+username    object
+email       object
+address     object
+phone       object
+website     object
+company     object
+dtype: object
+2025-08-24 22:25:27,024 [INFO] Data quality report saved at data/reports\users_data_quality_20250824_222527.csv
+2025-08-24 22:31:12,046 [INFO] Validating file: data/lake\csv_source\20250824_210552\churn.csv
+2025-08-24 22:31:12,061 [INFO] Data types:
+customerID           object
+gender               object
+SeniorCitizen         int64
+Partner              object
+Dependents           object
+tenure                int64
+PhoneService         object
+MultipleLines        object
+InternetService      object
+OnlineSecurity       object
+OnlineBackup         object
+DeviceProtection     object
+TechSupport          object
+StreamingTV          object
+StreamingMovies      object
+Contract             object
+PaperlessBilling     object
+PaymentMethod        object
+MonthlyCharges      float64
+TotalCharges         object
+Churn                object
+dtype: object
+2025-08-24 22:31:12,114 [WARNING] Rows with invalid/missing TotalCharges: 11
+2025-08-24 22:31:12,150 [INFO] Data quality report saved at data/reports\churn_data_quality_20250824_223112.csv
+2025-08-24 22:31:12,160 [INFO] Validating file: data/lake\api_source\20250824_205630\users.csv
+2025-08-24 22:31:12,164 [INFO] Data types:
+id           int64
+name        object
+username    object
+email       object
+address     object
+phone       object
+website     object
+company     object
+dtype: object
+2025-08-24 22:31:12,176 [INFO] Data quality report saved at data/reports\users_data_quality_20250824_223112.csv
+2025-08-24 22:35:54,522 [INFO] Validating file: data/lake\csv_source\20250824_210552\churn.csv
+2025-08-24 22:35:54,532 [INFO] Data types:
+customerID           object
+gender               object
+SeniorCitizen         int64
+Partner              object
+Dependents           object
+tenure                int64
+PhoneService         object
+MultipleLines        object
+InternetService      object
+OnlineSecurity       object
+OnlineBackup         object
+DeviceProtection     object
+TechSupport          object
+StreamingTV          object
+StreamingMovies      object
+Contract             object
+PaperlessBilling     object
+PaymentMethod        object
+MonthlyCharges      float64
+TotalCharges         object
+Churn                object
+dtype: object
+2025-08-24 22:35:54,608 [WARNING] Rows with invalid/missing TotalCharges: 11
+2025-08-24 22:35:54,667 [INFO] Data quality report saved at data/reports\churn_data_quality_20250824_223554.csv
+2025-08-24 22:35:54,675 [INFO] Validating file: data/lake\api_source\20250824_205630\users.csv
+2025-08-24 22:35:54,679 [INFO] Data types:
+id           int64
+name        object
+username    object
+email       object
+address     object
+phone       object
+website     object
+company     object
+dtype: object
+2025-08-24 22:35:54,690 [INFO] Data quality report saved at data/reports\users_data_quality_20250824_223554.csv

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1756054999186
+current_stage: None
+description: null
+last_updated_timestamp: 1756054999186
+name: churn_model
+run_id: a7a55f122e434c399c805dcdf7f944ba
+run_link: null
+source: file:///C:/Users/mahal/OneDrive/Desktop/BITS_Mtech/SEMESTER_2/Subjects/DMML/Assignment/New%20folder/mlruns/345300648654182705/a7a55f122e434c399c805dcdf7f944ba/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/mahal/OneDrive/Desktop/BITS_Mtech/SEMESTER_2/Subjects/DMML/Assignment/New%20folder/mlruns/345300648654182705/a7a55f122e434c399c805dcdf7f944ba/artifacts/model
+user_id: null
+version: 75

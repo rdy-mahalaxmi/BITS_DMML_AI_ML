@@ -1,0 +1,198 @@
+2025-08-23 15:33:31,943 [INFO] Preparing dataset: data/lake\csv_source\20250823_150931\churn.csv
+2025-08-23 15:33:32,194 [INFO] Prepared dataset saved at data/processed\churn_prepared.csv
+2025-08-23 15:33:39,808 [INFO] Summary statistics saved at data/reports\churn_summary_20250823_153332.csv
+2025-08-23 15:33:39,814 [INFO] Preparing dataset: data/lake\api_source\20250823_150931\users.csv
+2025-08-23 15:33:39,837 [INFO] Prepared dataset saved at data/processed\users_prepared.csv
+2025-08-23 15:33:40,659 [INFO] Summary statistics saved at data/reports\users_summary_20250823_153339.csv
+2025-08-23 22:02:31,177 [INFO] Preparing dataset: data/lake\csv_source\20250823_220217\churn.csv
+2025-08-23 22:02:31,480 [INFO] Prepared dataset saved at data/processed\churn_prepared.csv
+2025-08-23 22:02:38,612 [INFO] Summary statistics saved at data/reports\churn_summary_20250823_220231.csv
+2025-08-23 22:02:38,618 [INFO] Preparing dataset: data/lake\api_source\20250823_220217\users.csv
+2025-08-23 22:02:38,636 [INFO] Prepared dataset saved at data/processed\users_prepared.csv
+2025-08-23 22:02:39,860 [INFO] Summary statistics saved at data/reports\users_summary_20250823_220238.csv
+2025-08-23 22:39:41,333 [INFO] Preparing dataset: data/lake\csv_source\20250823_223933\churn.csv
+2025-08-23 22:39:41,485 [INFO] Prepared dataset saved at data/processed\churn_prepared.csv
+2025-08-23 22:39:46,212 [INFO] Summary statistics saved at data/reports\churn_summary_20250823_223941.csv
+2025-08-23 22:39:46,221 [INFO] Preparing dataset: data/lake\api_source\20250823_223933\users.csv
+2025-08-23 22:39:46,233 [INFO] Prepared dataset saved at data/processed\users_prepared.csv
+2025-08-23 22:39:47,070 [INFO] Summary statistics saved at data/reports\users_summary_20250823_223946.csv
+2025-08-24 08:32:47,895 [INFO] Preparing dataset: data/lake\csv_source\20250824_083229\churn.csv
+2025-08-24 08:32:48,132 [INFO] Prepared dataset saved at data/processed\churn_prepared.csv
+2025-08-24 08:32:55,756 [INFO] Summary statistics saved at data/reports\churn_summary_20250824_083248.csv
+2025-08-24 08:32:55,762 [INFO] Preparing dataset: data/lake\api_source\20250824_083229\users.csv
+2025-08-24 08:32:55,803 [INFO] Prepared dataset saved at data/processed\users_prepared.csv
+2025-08-24 08:32:57,121 [INFO] Summary statistics saved at data/reports\users_summary_20250824_083255.csv
+2025-08-24 08:41:17,002 [INFO] Preparing dataset: data/lake\csv_source\20250824_084110\churn.csv
+2025-08-24 08:41:17,129 [INFO] Prepared dataset saved at data/processed\churn_prepared.csv
+2025-08-24 08:41:20,730 [INFO] Summary statistics saved at data/reports\churn_summary_20250824_084117.csv
+2025-08-24 08:41:20,732 [INFO] Preparing dataset: data/lake\api_source\20250824_084110\users.csv
+2025-08-24 08:41:20,746 [INFO] Prepared dataset saved at data/processed\users_prepared.csv
+2025-08-24 08:41:21,258 [INFO] Summary statistics saved at data/reports\users_summary_20250824_084120.csv
+2025-08-24 10:38:27,536 [INFO] Preparing dataset: data/lake\csv_source\20250824_103807\churn.csv
+2025-08-24 10:38:27,672 [INFO] Prepared dataset saved at data/processed\churn_prepared.csv
+2025-08-24 10:38:31,909 [INFO] Summary statistics saved at data/reports\churn_summary_20250824_103827.csv
+2025-08-24 10:38:31,913 [INFO] Preparing dataset: data/lake\api_source\20250824_103807\users.csv
+2025-08-24 10:38:31,925 [INFO] Prepared dataset saved at data/processed\users_prepared.csv
+2025-08-24 10:38:32,473 [INFO] Summary statistics saved at data/reports\users_summary_20250824_103831.csv
+2025-08-24 11:05:45,121 [INFO] Preparing dataset: data/lake\csv_source\20250824_110538\churn.csv
+2025-08-24 11:05:45,274 [INFO] Prepared dataset saved at data/processed\churn_prepared.csv
+2025-08-24 11:05:49,913 [INFO] Summary statistics saved at data/reports\churn_summary_20250824_110545.csv
+2025-08-24 11:05:49,917 [INFO] Preparing dataset: data/lake\api_source\20250824_110538\users.csv
+2025-08-24 11:05:49,929 [INFO] Prepared dataset saved at data/processed\users_prepared.csv
+2025-08-24 11:05:50,532 [INFO] Summary statistics saved at data/reports\users_summary_20250824_110549.csv
+2025-08-24 11:09:48,481 [INFO] Preparing dataset: data/lake\csv_source\20250824_110942\churn.csv
+2025-08-24 11:09:48,620 [INFO] Prepared dataset saved at data/processed\churn_prepared.csv
+2025-08-24 11:09:52,556 [INFO] Summary statistics saved at data/reports\churn_summary_20250824_110948.csv
+2025-08-24 11:09:52,560 [INFO] Preparing dataset: data/lake\api_source\20250824_110942\users.csv
+2025-08-24 11:09:52,574 [INFO] Prepared dataset saved at data/processed\users_prepared.csv
+2025-08-24 11:09:53,150 [INFO] Summary statistics saved at data/reports\users_summary_20250824_110952.csv
+2025-08-24 12:25:52,924 [INFO] Preparing dataset: data/lake\csv_source\20250824_122528\churn.csv
+2025-08-24 12:25:53,128 [INFO] Prepared dataset saved at data/processed\churn_prepared.csv
+2025-08-24 12:25:59,204 [INFO] Summary statistics saved at data/reports\churn_summary_20250824_122553.csv
+2025-08-24 12:25:59,209 [INFO] Preparing dataset: data/lake\api_source\20250824_122528\users.csv
+2025-08-24 12:25:59,229 [INFO] Prepared dataset saved at data/processed\users_prepared.csv
+2025-08-24 12:25:59,834 [INFO] Summary statistics saved at data/reports\users_summary_20250824_122559.csv
+2025-08-24 12:37:49,959 [INFO] Preparing dataset: data/lake\csv_source\20250824_123738\churn.csv
+2025-08-24 12:37:50,133 [INFO] Prepared dataset saved at data/processed\churn_prepared.csv
+2025-08-24 12:38:00,126 [INFO] Summary statistics saved at data/reports\churn_summary_20250824_123750.csv
+2025-08-24 12:38:00,132 [INFO] Preparing dataset: data/lake\api_source\20250824_123738\users.csv
+2025-08-24 12:38:00,156 [INFO] Prepared dataset saved at data/processed\users_prepared.csv
+2025-08-24 12:38:01,541 [INFO] Summary statistics saved at data/reports\users_summary_20250824_123800.csv
+2025-08-24 14:26:09,567 [INFO] Preparing dataset: data/lake\csv_source\20250824_142557\churn.csv
+2025-08-24 14:26:09,733 [INFO] Prepared dataset saved at data/processed\churn_prepared.csv
+2025-08-24 14:26:15,190 [INFO] Summary statistics saved at data/reports\churn_summary_20250824_142609.csv
+2025-08-24 14:26:15,194 [INFO] Preparing dataset: data/lake\api_source\20250824_142557\users.csv
+2025-08-24 14:26:15,219 [INFO] Prepared dataset saved at data/processed\users_prepared.csv
+2025-08-24 14:26:15,993 [INFO] Summary statistics saved at data/reports\users_summary_20250824_142615.csv
+2025-08-24 14:33:03,942 [INFO] Preparing dataset: data/lake\csv_source\20250824_143255\churn.csv
+2025-08-24 14:33:04,167 [INFO] Prepared dataset saved at data/processed\churn_prepared.csv
+2025-08-24 14:33:09,546 [INFO] Summary statistics saved at data/reports\churn_summary_20250824_143304.csv
+2025-08-24 14:33:09,549 [INFO] Preparing dataset: data/lake\api_source\20250824_143255\users.csv
+2025-08-24 14:33:09,565 [INFO] Prepared dataset saved at data/processed\users_prepared.csv
+2025-08-24 14:33:10,491 [INFO] Summary statistics saved at data/reports\users_summary_20250824_143309.csv
+2025-08-24 14:36:25,262 [INFO] Preparing dataset: data/lake\csv_source\20250824_143618\churn.csv
+2025-08-24 14:36:25,448 [INFO] Prepared dataset saved at data/processed\churn_prepared.csv
+2025-08-24 14:36:29,949 [INFO] Summary statistics saved at data/reports\churn_summary_20250824_143625.csv
+2025-08-24 14:36:29,953 [INFO] Preparing dataset: data/lake\api_source\20250824_143618\users.csv
+2025-08-24 14:36:29,970 [INFO] Prepared dataset saved at data/processed\users_prepared.csv
+2025-08-24 14:36:30,673 [INFO] Summary statistics saved at data/reports\users_summary_20250824_143629.csv
+2025-08-24 14:44:01,826 [INFO] Preparing dataset: data/lake\csv_source\20250824_144354\churn.csv
+2025-08-24 14:44:02,097 [INFO] Prepared dataset saved at data/processed\churn_prepared.csv
+2025-08-24 14:44:06,439 [INFO] Summary statistics saved at data/reports\churn_summary_20250824_144402.csv
+2025-08-24 14:44:06,444 [INFO] Preparing dataset: data/lake\api_source\20250824_144354\users.csv
+2025-08-24 14:44:06,474 [INFO] Prepared dataset saved at data/processed\users_prepared.csv
+2025-08-24 14:44:07,406 [INFO] Summary statistics saved at data/reports\users_summary_20250824_144406.csv
+2025-08-24 18:40:12,882 [INFO] Preparing dataset: data/lake\csv_source\20250824_183950\churn.csv
+2025-08-24 18:40:13,184 [INFO] Prepared dataset saved at data/processed\churn_prepared.csv
+2025-08-24 18:40:24,395 [INFO] Summary statistics saved at data/reports\churn_summary_20250824_184013.csv
+2025-08-24 18:40:24,410 [INFO] Preparing dataset: data/lake\api_source\20250824_183950\users.csv
+2025-08-24 18:40:24,503 [INFO] Prepared dataset saved at data/processed\users_prepared.csv
+2025-08-24 18:40:26,376 [INFO] Summary statistics saved at data/reports\users_summary_20250824_184024.csv
+2025-08-24 20:33:09,929 [INFO] Preparing dataset: data/lake\csv_source\20250824_203302\churn.csv
+2025-08-24 20:33:10,084 [INFO] Prepared dataset saved at data/processed\churn_prepared.csv
+2025-08-24 20:33:14,532 [INFO] Summary statistics saved at data/reports\churn_summary_20250824_203310.csv
+2025-08-24 20:33:14,535 [INFO] Preparing dataset: data/lake\api_source\20250824_203302\users.csv
+2025-08-24 20:33:14,561 [INFO] Prepared dataset saved at data/processed\users_prepared.csv
+2025-08-24 20:33:15,422 [INFO] Summary statistics saved at data/reports\users_summary_20250824_203314.csv
+2025-08-24 20:40:42,369 [INFO] Preparing dataset: data/lake\csv_source\20250824_204034\churn.csv
+2025-08-24 20:40:42,548 [INFO] Prepared dataset saved at data/processed\churn_prepared.csv
+2025-08-24 20:40:46,880 [INFO] Summary statistics saved at data/reports\churn_summary_20250824_204042.csv
+2025-08-24 20:40:46,883 [INFO] Preparing dataset: data/lake\api_source\20250824_204035\users.csv
+2025-08-24 20:40:46,900 [INFO] Prepared dataset saved at data/processed\users_prepared.csv
+2025-08-24 20:40:47,488 [INFO] Summary statistics saved at data/reports\users_summary_20250824_204046.csv
+2025-08-24 20:44:14,684 [INFO] Preparing dataset: data/lake\csv_source\20250824_204406\churn.csv
+2025-08-24 20:44:14,895 [INFO] Prepared dataset saved at data/processed\churn_prepared.csv
+2025-08-24 20:44:20,118 [INFO] Summary statistics saved at data/reports\churn_summary_20250824_204414.csv
+2025-08-24 20:44:20,123 [INFO] Preparing dataset: data/lake\api_source\20250824_204406\users.csv
+2025-08-24 20:44:20,138 [INFO] Prepared dataset saved at data/processed\users_prepared.csv
+2025-08-24 20:44:20,951 [INFO] Summary statistics saved at data/reports\users_summary_20250824_204420.csv
+2025-08-24 21:15:43,266 [INFO] Preparing dataset: data/lake\csv_source\20250824_210552\churn.csv
+2025-08-24 21:15:43,423 [INFO] Prepared dataset saved at data/processed\churn_prepared.csv
+2025-08-24 21:15:48,407 [INFO] Summary statistics saved at data/reports\churn_summary_20250824_211543.csv
+2025-08-24 21:15:48,414 [INFO] Preparing dataset: data/lake\api_source\20250824_205630\users.csv
+2025-08-24 21:15:48,428 [INFO] Prepared dataset saved at data/processed\users_prepared.csv
+2025-08-24 21:15:49,173 [INFO] Summary statistics saved at data/reports\users_summary_20250824_211548.csv
+2025-08-24 21:20:38,609 [INFO] Preparing dataset: data/lake\csv_source\20250824_210552\churn.csv
+2025-08-24 21:20:38,868 [INFO] Prepared dataset saved at data/processed\churn_prepared.csv
+2025-08-24 21:20:45,498 [INFO] Summary statistics saved at data/reports\churn_summary_20250824_212038.csv
+2025-08-24 21:20:45,511 [INFO] Preparing dataset: data/lake\api_source\20250824_205630\users.csv
+2025-08-24 21:20:45,557 [INFO] Prepared dataset saved at data/processed\users_prepared.csv
+2025-08-24 21:20:46,571 [INFO] Summary statistics saved at data/reports\users_summary_20250824_212045.csv
+2025-08-24 21:25:54,585 [INFO] Preparing dataset: data/lake\csv_source\20250824_210552\churn.csv
+2025-08-24 21:25:54,784 [INFO] Prepared dataset saved at data/processed\churn_prepared.csv
+2025-08-24 21:26:03,718 [INFO] Summary statistics saved at data/reports\churn_summary_20250824_212554.csv
+2025-08-24 21:26:03,726 [INFO] Preparing dataset: data/lake\api_source\20250824_205630\users.csv
+2025-08-24 21:26:03,774 [INFO] Prepared dataset saved at data/processed\users_prepared.csv
+2025-08-24 21:26:05,500 [INFO] Summary statistics saved at data/reports\users_summary_20250824_212603.csv
+2025-08-24 21:30:53,056 [INFO] Preparing dataset: data/lake\csv_source\20250824_210552\churn.csv
+2025-08-24 21:30:53,191 [INFO] Prepared dataset saved at data/processed\churn_prepared.csv
+2025-08-24 21:30:59,071 [INFO] Summary statistics saved at data/reports\churn_summary_20250824_213053.csv
+2025-08-24 21:30:59,075 [INFO] Preparing dataset: data/lake\api_source\20250824_205630\users.csv
+2025-08-24 21:30:59,087 [INFO] Prepared dataset saved at data/processed\users_prepared.csv
+2025-08-24 21:30:59,779 [INFO] Summary statistics saved at data/reports\users_summary_20250824_213059.csv
+2025-08-24 21:35:48,915 [INFO] Preparing dataset: data/lake\csv_source\20250824_210552\churn.csv
+2025-08-24 21:35:49,179 [INFO] Prepared dataset saved at data/processed\churn_prepared.csv
+2025-08-24 21:35:54,417 [INFO] Summary statistics saved at data/reports\churn_summary_20250824_213549.csv
+2025-08-24 21:35:54,422 [INFO] Preparing dataset: data/lake\api_source\20250824_205630\users.csv
+2025-08-24 21:35:54,441 [INFO] Prepared dataset saved at data/processed\users_prepared.csv
+2025-08-24 21:35:55,400 [INFO] Summary statistics saved at data/reports\users_summary_20250824_213554.csv
+2025-08-24 21:43:42,195 [INFO] Preparing dataset: data/lake\csv_source\20250824_210552\churn.csv
+2025-08-24 21:43:42,312 [INFO] Prepared dataset saved at data/processed\churn_prepared.csv
+2025-08-24 21:43:46,367 [INFO] Summary statistics saved at data/reports\churn_summary_20250824_214342.csv
+2025-08-24 21:43:46,371 [INFO] Preparing dataset: data/lake\api_source\20250824_205630\users.csv
+2025-08-24 21:43:46,383 [INFO] Prepared dataset saved at data/processed\users_prepared.csv
+2025-08-24 21:43:46,931 [INFO] Summary statistics saved at data/reports\users_summary_20250824_214346.csv
+2025-08-24 21:57:04,708 [INFO] Preparing dataset: data/lake\csv_source\20250824_210552\churn.csv
+2025-08-24 21:57:05,401 [INFO] Prepared dataset saved at data/processed\churn_prepared.csv
+2025-08-24 21:57:16,276 [INFO] Summary statistics saved at data/reports\churn_summary_20250824_215705.csv
+2025-08-24 21:57:16,301 [INFO] Preparing dataset: data/lake\api_source\20250824_205630\users.csv
+2025-08-24 21:57:16,374 [INFO] Prepared dataset saved at data/processed\users_prepared.csv
+2025-08-24 21:57:18,484 [INFO] Summary statistics saved at data/reports\users_summary_20250824_215716.csv
+2025-08-24 22:00:33,877 [INFO] Preparing dataset: data/lake\csv_source\20250824_210552\churn.csv
+2025-08-24 22:00:33,997 [INFO] Prepared dataset saved at data/processed\churn_prepared.csv
+2025-08-24 22:00:37,736 [INFO] Summary statistics saved at data/reports\churn_summary_20250824_220033.csv
+2025-08-24 22:00:37,741 [INFO] Preparing dataset: data/lake\api_source\20250824_205630\users.csv
+2025-08-24 22:00:37,753 [INFO] Prepared dataset saved at data/processed\users_prepared.csv
+2025-08-24 22:00:38,345 [INFO] Summary statistics saved at data/reports\users_summary_20250824_220037.csv
+2025-08-24 22:05:35,059 [INFO] Preparing dataset: data/lake\csv_source\20250824_210552\churn.csv
+2025-08-24 22:05:35,227 [INFO] Prepared dataset saved at data/processed\churn_prepared.csv
+2025-08-24 22:05:38,658 [INFO] Summary statistics saved at data/reports\churn_summary_20250824_220535.csv
+2025-08-24 22:05:38,658 [INFO] Preparing dataset: data/lake\api_source\20250824_205630\users.csv
+2025-08-24 22:05:38,676 [INFO] Prepared dataset saved at data/processed\users_prepared.csv
+2025-08-24 22:05:39,238 [INFO] Summary statistics saved at data/reports\users_summary_20250824_220538.csv
+2025-08-24 22:10:42,045 [INFO] Preparing dataset: data/lake\csv_source\20250824_210552\churn.csv
+2025-08-24 22:10:42,214 [INFO] Prepared dataset saved at data/processed\churn_prepared.csv
+2025-08-24 22:10:45,567 [INFO] Summary statistics saved at data/reports\churn_summary_20250824_221042.csv
+2025-08-24 22:10:45,574 [INFO] Preparing dataset: data/lake\api_source\20250824_205630\users.csv
+2025-08-24 22:10:45,590 [INFO] Prepared dataset saved at data/processed\users_prepared.csv
+2025-08-24 22:10:46,356 [INFO] Summary statistics saved at data/reports\users_summary_20250824_221045.csv
+2025-08-24 22:16:36,839 [INFO] Preparing dataset: data/lake\csv_source\20250824_210552\churn.csv
+2025-08-24 22:16:37,180 [INFO] Prepared dataset saved at data/processed\churn_prepared.csv
+2025-08-24 22:16:58,668 [INFO] Summary statistics saved at data/reports\churn_summary_20250824_221637.csv
+2025-08-24 22:16:58,685 [INFO] Preparing dataset: data/lake\api_source\20250824_205630\users.csv
+2025-08-24 22:16:58,734 [INFO] Prepared dataset saved at data/processed\users_prepared.csv
+2025-08-24 22:17:01,901 [INFO] Summary statistics saved at data/reports\users_summary_20250824_221658.csv
+2025-08-24 22:20:44,364 [INFO] Preparing dataset: data/lake\csv_source\20250824_210552\churn.csv
+2025-08-24 22:20:44,725 [INFO] Prepared dataset saved at data/processed\churn_prepared.csv
+2025-08-24 22:20:54,045 [INFO] Summary statistics saved at data/reports\churn_summary_20250824_222044.csv
+2025-08-24 22:20:54,052 [INFO] Preparing dataset: data/lake\api_source\20250824_205630\users.csv
+2025-08-24 22:20:54,082 [INFO] Prepared dataset saved at data/processed\users_prepared.csv
+2025-08-24 22:20:56,276 [INFO] Summary statistics saved at data/reports\users_summary_20250824_222054.csv
+2025-08-24 22:25:32,758 [INFO] Preparing dataset: data/lake\csv_source\20250824_210552\churn.csv
+2025-08-24 22:25:33,029 [INFO] Prepared dataset saved at data/processed\churn_prepared.csv
+2025-08-24 22:25:37,129 [INFO] Summary statistics saved at data/reports\churn_summary_20250824_222533.csv
+2025-08-24 22:25:37,134 [INFO] Preparing dataset: data/lake\api_source\20250824_205630\users.csv
+2025-08-24 22:25:37,146 [INFO] Prepared dataset saved at data/processed\users_prepared.csv
+2025-08-24 22:25:37,877 [INFO] Summary statistics saved at data/reports\users_summary_20250824_222537.csv
+2025-08-24 22:31:24,934 [INFO] Preparing dataset: data/lake\csv_source\20250824_210552\churn.csv
+2025-08-24 22:31:25,428 [INFO] Prepared dataset saved at data/processed\churn_prepared.csv
+2025-08-24 22:31:34,582 [INFO] Summary statistics saved at data/reports\churn_summary_20250824_223125.csv
+2025-08-24 22:31:34,590 [INFO] Preparing dataset: data/lake\api_source\20250824_205630\users.csv
+2025-08-24 22:31:34,625 [INFO] Prepared dataset saved at data/processed\users_prepared.csv
+2025-08-24 22:31:36,266 [INFO] Summary statistics saved at data/reports\users_summary_20250824_223134.csv
+2025-08-24 22:35:59,250 [INFO] Preparing dataset: data/lake\csv_source\20250824_210552\churn.csv
+2025-08-24 22:35:59,440 [INFO] Prepared dataset saved at data/processed\churn_prepared.csv
+2025-08-24 22:36:03,323 [INFO] Summary statistics saved at data/reports\churn_summary_20250824_223559.csv
+2025-08-24 22:36:03,327 [INFO] Preparing dataset: data/lake\api_source\20250824_205630\users.csv
+2025-08-24 22:36:03,341 [INFO] Prepared dataset saved at data/processed\users_prepared.csv
+2025-08-24 22:36:04,001 [INFO] Summary statistics saved at data/reports\users_summary_20250824_223603.csv
