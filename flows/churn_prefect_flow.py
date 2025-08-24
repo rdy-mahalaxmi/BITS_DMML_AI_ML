@@ -16,7 +16,7 @@ def ingest():
 def local_storage():
     logger = get_run_logger()
     logger.info("Storing data locally...")
-    # subprocess.check_call([sys.executable, "../src/local_storage.py"])
+    subprocess.check_call([sys.executable, "../src/local_storage.py"])
     logger.info("Local storage done.")
 
 @task(retries=2, retry_delay_seconds=10)
