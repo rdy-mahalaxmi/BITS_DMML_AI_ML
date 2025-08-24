@@ -1,0 +1,42 @@
+{
+    "customerID": {
+        "description": "Unique customer ID",
+        "source": "csv",
+        "version": 1
+    },
+    "gender": {
+        "description": "Customer gender",
+        "source": "csv",
+        "version": 1
+    },
+    "SeniorCitizen": {
+        "description": "Is senior citizen (0/1)",
+        "source": "csv",
+        "version": 1
+    },
+    "tenure": {
+        "description": "Number of months the customer has stayed",
+        "source": "csv",
+        "version": 1
+    },
+    "TotalCharges": {
+        "description": "Total charges of the customer",
+        "source": "csv",
+        "version": 1
+    },
+    "Churn": {
+        "description": "Churn label (Yes/No)",
+        "source": "csv",
+        "version": 1
+    },
+    "username": {
+        "description": "API user name",
+        "source": "api",
+        "version": 1
+    },
+    "email": {
+        "description": "API user email",
+        "source": "api",
+        "version": 1
+    }
+}

@@ -1,0 +1,9 @@
+Column,DataType,MissingValues,UniqueValues
+id,int64,0,10
+name,object,0,10
+username,object,0,10
+email,object,0,10
+address,object,0,10
+phone,object,0,10
+website,object,0,10
+company,object,0,10

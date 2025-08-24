@@ -1,0 +1,10 @@
+{
+    "timestamp": "20250824_220546",
+    "raw_data": "churn_raw_20250824_220546.csv",
+    "transformed_data": "transformed_20250824_220546.csv",
+    "source": {
+        "csv": "https://raw.githubusercontent.com/SohelRaja/Customer-Churn-Analysis/master/Decision%20Tree/WA_Fn-UseC_-Telco-Customer-Churn.csv",
+        "api": "https://jsonplaceholder.typicode.com/users"
+    },
+    "changes": "Initial ingestion + API merge"
+}
